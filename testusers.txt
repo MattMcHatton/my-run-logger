@@ -1,0 +1,8 @@
+email=test@test.com
+pass=1234abc
+
+email=smicketySmackety@smicksmack.com
+pass=smicketysmackdontsmackback
+
+email=mickeymac@yes.com
+pass=mickeymack
